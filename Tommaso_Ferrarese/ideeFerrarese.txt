@@ -8,7 +8,7 @@ IDEE Ferrarese:
 7. Videogame 2D leggero (Es: alleva animali, coltiva cibo, ecc...)
 8. Scacchi modificato
 9. App di simulazione (come quei dating sims) sulla fisica (Es: ponti, ecc..)
-10. App 
+10. Videogame di simulazione 2D nel quale hai da costruire una città con degli oggetti e, in base a come li mergi tra loro ottieni delle altre cose per la tua città
 
 
 Proposte ChatGpt:
