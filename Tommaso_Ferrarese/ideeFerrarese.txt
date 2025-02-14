@@ -1,2 +1,35 @@
 IDEE Ferrarese:
-- 
+1. Videogame 2D RPG di avventura
+2. App per la grafica (GUI)
+3. App per la Cybersecurity
+4. Videogame 2D Clicker
+5. App per fare Matematica e Complementi
+6. App per far imparare, giocando, Java e la programmazione ad oggetti
+7. Videogame 2D leggero (Es: alleva animali, coltiva cibo, ecc...)
+8. Scacchi modificato
+9. App di simulazione (come quei dating sims) sulla fisica (Es: ponti, ecc..)
+10. App 
+
+
+Proposte ChatGpt:
+
+### **Progetti Base**  
+1. **Calcolatrice** – Un'app semplice con le operazioni base (+, -, *, /).  
+2. **Gestore di Note** – Un'app per creare, modificare ed eliminare note.  
+3. **Convertitore di Valuta** – Un programma che converte tra diverse valute.  
+4. **Rubrica Contatti** – Un'app per salvare e cercare contatti.  
+5. **Gestione To-Do List** – Un'app per aggiungere, rimuovere e completare attività.  
+
+### **Progetti Intermedi**  
+6. **Gestore di Libreria** – Un sistema per gestire libri, prestiti e utenti.  
+7. **Chat in Rete (Socket Programming)** – Una chat tra client e server usando socket TCP/IP.  
+8. **Gioco del Tris (Tic-Tac-Toe)** – Un gioco in Java con GUI (Swing/JavaFX).  
+9. **Sistema di Login e Registrazione** – Gestione di utenti con autenticazione e database.  
+10. **Analizzatore di Testo** – Conta parole, caratteri e frequenza delle parole in un testo.  
+
+### **Progetti Avanzati**  
+11. **Gestione di un Negozio Online** – Un'app con prodotti, carrello e ordini, con database MySQL.  
+12. **Simulatore di Bancomat** – Con operazioni come prelievo, deposito e saldo.  
+13. **Gioco Snake** – Un classico gioco sviluppato con Java e interfaccia grafica.  
+14. **Sistema di Prenotazione (Hotel, Ristoranti, Eventi)** – Gestione di prenotazioni con interfaccia web.  
+15. **Blockchain in Java** – Implementazione di una semplice blockchain con transazioni.
